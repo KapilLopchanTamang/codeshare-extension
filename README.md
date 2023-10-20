@@ -22,6 +22,7 @@ The VSCode Data Sender and Receiver Extension is a versatile tool that enables s
 4. If connected to the internet, and you are far from the reciver friend you can choose to send the data over the internet "ONLINE". If not, select the local network option for offline communication.
 5. Copy The 4 digit generated code and send that code to friend.
 ![Animated GIF](./media/clip/send_code_online.gif)
+5. Copy The 4 digit generated code and send that code to friend.
 
 ### Offline Method
 
